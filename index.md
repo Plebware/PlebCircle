@@ -1,184 +1,244 @@
 ---
 layout: default
-title: The Origin of PlebCircle
+title: Join PlebCircle — Community, Connection and Creativity
+description: Discover PlebCircle, a WhatsApp community connecting people through faith, gaming, music, writing, AI, graphics, video and shared creativity. Start in PlebCircle Commons.
 ---
 
 {% include dashboard.html %}
 
 ----
 
-# 🧭 **The Story of PlebCircle** formerly known as PlebWave Frontier
+<!-- PLEBVOX:START -->
 
-## From Plebware to _PlebWave Frontier_ to **PlebCircle**
+# 🧭 Welcome to PlebCircle — A Community Built Around People
 
-**PlebCircle** is the latest evolution of a journey that began many years before websites, social media communities, or modular Linux systems entered the picture.
+**PlebCircle** is the community side of the Plebware journey. While Plebware shares ideas and resources and PlebMachine explores practical computing, PlebCircle brings people together.
 
 Its roots lie in a simple but powerful belief:
 
 > Technology should empower ordinary people rather than control them.
 
-Long before **PlebCircle** existed, the foundations were laid through years of working with ageing computers, repairing hardware others considered obsolete, and finding practical solutions where budgets, resources, and circumstances were often limited.
+PlebCircle is a WhatsApp community for people who want to connect, share ideas, learn from one another, enjoy their interests, and build meaningful friendships. Whether you're interested in faith, gaming, music, reading, writing, graphics, video, artificial intelligence, or simply meeting people with similar interests, there's a place for you here.
 
-Rather than accepting the idea that older technology should be discarded, the focus became extending its usefulness through Linux, optimisation, practical engineering, and creative problem-solving.
+**Our aim is simple: connect people, encourage constructive conversation, and make room for everyone to learn and contribute.**
 
-This philosophy eventually became known as **Plebware**.
-
-The name was inspired by the word *plebeian* — ordinary people — reflecting the belief that technology should remain accessible, understandable, repairable, and useful to everyday users rather than becoming increasingly locked behind expensive hardware, subscriptions, and corporate ecosystems.
+<!-- PLEBVOX:END -->
 
 ---
 
-# ⚙️ Foundations Built on Experience
+# 🤝 Join PlebCircle on WhatsApp
 
-The principles behind Plebware were shaped by a lifetime of practical disciplines, including:
+<!-- PLEBVOX:START -->
 
-* Railway electrical systems
-* Mechanical troubleshooting
-* Fault diagnosis
-* Hardware repair
-* Linux experimentation
-* Lightweight computing
-* Creative design
-* Technical writing
-* Systems recovery and resilience
+## 🏡 New here? Start with PlebCircle Commons
 
-These experiences reinforced several enduring beliefs:
+<a href="https://chat.whatsapp.com/LDGb35oFqDVJ3WsEnvkMwx" target="_blank" rel="noopener noreferrer">**👉 Join PlebCircle Commons — the entry group**</a>
 
-🔑 Reliability matters more than hype.
+PlebCircle Commons is the starting point for newcomers. Introduce yourself, meet other members, ask general questions, and discover which groups match your interests.
 
-🔑 Maintainability matters more than appearance.
+## 🌐 Join the wider PlebCircle Community
 
-🔑 Resilience matters more than trends.
+<a href="https://chat.whatsapp.com/FoplWyb2n0Q2zhd0Cm4c9Z" target="_blank" rel="noopener noreferrer">**💬 Join the PlebCircle WhatsApp Community**</a>
 
-🔑 Recoverability matters more than complexity.
+PlebCircle is organised into interest-based groups so members can find conversations that matter to them. Start in Commons and explore the other groups at your own pace.
 
-Instead of chasing every new technology fad, the focus remained on creating systems and communities that deliver long-term value.
+<!-- PLEBVOX:END -->
 
 ---
 
-# 🌐 The Plebware Era
+# 🏡 Your Starting Point: PlebCircle Commons
 
-Around January 2010, Plebware established its first major online presence through **Plebware.com**.
+<!-- PLEBVOX:START -->
 
-Hosted for many years on GreenGeeks, the site became a testing ground for ideas, projects, tutorials, Linux experimentation, graphics work, creative writing, and technical discussions.
+**PlebCircle Commons** is the official entry group for PlebCircle.
 
-The platform explored:
+When you join, please introduce yourself with a simple message. For example:
 
-* Linux and open-source computing
-* Lightweight desktop environments
-* Hardware longevity
-* Practical engineering concepts
-* Creative media production
-* Accessible technology
-* Early modular desktop concepts
+- “Hi, I'm Dimitri, from Russia.”
+- “Hello, I'm Anna from Soweto, South Africa.”
+- “Hi everyone, I'm Jack from New York.”
 
-Many of the ideas developed during this period would later evolve into larger projects, including the PlebMachine ecosystem.
+You don't need to share your full name, exact address, telephone number, or other private information in your introduction. A first name or chosen name and a general location are enough if you're comfortable sharing them.
 
-Although the original website eventually closed after the COVID era, its guiding philosophy continued to grow through new platforms, new projects, and new communities.
+Introductions help the community welcome real people, understand who has joined, reduce bot and spam activity, and get conversations started.
 
----
+**Please introduce yourself when you join.** Members who do not introduce themselves may be removed by the administrators so that the community remains manageable and genuine.
 
-# 🖥️ The Rise of PlebMachine
+PlebCircle Commons is also the place to get your bearings and find the groups that suit your interests.
 
-As the project matured, attention shifted from simply running lightweight Linux systems toward creating adaptive environments capable of changing roles depending on the user's needs.
-
-This vision eventually became **PlebMachine**.
-
-PlebMachine is a modular Linux orchestration environment designed around:
-
-* State-driven operation
-* Desktop flexibility
-* User control
-* Recoverability
-* Long-term maintainability
-* Practical engineering
-
-Rather than forcing users into a single workflow, PlebMachine adapts to multiple creative and technical disciplines while remaining lightweight and understandable.
+<!-- PLEBVOX:END -->
 
 ---
 
-# 🚀 Enter **PlebCircle**
+# 🌟 Explore the 19 PlebCircle Groups
 
-**PlebCircle** represents the community side of the journey.
+<!-- PLEBVOX:START -->
 
-While Plebware focused on ideas and PlebMachine focused on systems, **PlebCircle** focuses on people.
+PlebCircle has **19 groups**, each with its own interests and purpose. The groups below are organised by theme to make them easier to browse. These themes are guides, not restrictions on what members may enjoy.
 
-It serves as a digital gathering place for creators, innovators, gamers, artists, musicians, writers, developers, and technology enthusiasts who share a passion for building, learning, and creating.
+## 🙏 Faith, Scripture and Fellowship
 
-**PlebCircle** provides a structured WhatsApp-based community designed around collaboration rather than noise.
+### 1. God's Journalist
 
-The goal is simple:
+A space connected with Christian writing, testimony, reflection, and sharing faith through words.
 
-> Bring creative people together and give them dedicated spaces to learn, experiment, and share ideas.
+### 2. Daily Light
+
+For daily encouragement, Christian reflection, and thoughts that help bring faith into everyday life.
+
+### 3. Prayer Room
+
+A place for prayer, encouragement, and respectful support for people who wish to share prayer needs. Please respect people's privacy and ask permission before sharing their personal circumstances outside the group.
+
+### 4. Faith Walk
+
+For conversation about living out faith, navigating life's challenges, and growing through everyday experiences.
+
+### 5. Bible Talk
+
+A place to discuss Scripture, ask questions, share insights, and learn from one another respectfully.
+
+## 🎮 Gaming, Memes and Entertainment
+
+### 6. Hero Wars Fans
+
+For fans of Hero Wars to discuss the game, share experiences, and connect with fellow players.
+
+### 7. Raid Shadow Legends
+
+A group for Raid: Shadow Legends players to exchange game-related conversation, experiences, and tips.
+
+### 8. Meme Monitors
+
+For memes, humour, and amusing content. Keep it fun, considerate, and appropriate for the community.
+
+## 🎵 Music, Reading and Writing
+
+### 9. PlebCore Music Lovers
+
+For music lovers to share their enthusiasm for music, discuss artists and styles, and connect through sound.
+
+### 10. Cody's Nook
+
+A personal-interest corner for conversation, ideas, and shared discoveries associated with Cody's creative world.
+
+### 11. Reader's Club
+
+For readers to share books, discuss what they're reading, and exchange recommendations and impressions.
+
+### 12. Writer's Hub
+
+For writers to discuss writing, exchange ideas, and encourage one another in the writing process.
+
+### 13. Writer's Co-lab Group
+
+A collaborative space for writers who want to develop ideas, exchange feedback, and explore writing together.
+
+## 🤖 Artificial Intelligence and Creative Projects
+
+### 14. AI User's Group
+
+For people interested in using artificial intelligence tools, sharing experiences, discussing practical uses, and learning together.
+
+### 15. The AI Chef
+
+For exploring the meeting point between AI and food: recipe ideas, cooking inspiration, and creative experiments.
+
+### 16. Creator's Hub
+
+A place for creative ideas and projects that cross disciplines. Members can discuss concepts, share work in progress, and explore collaboration.
+
+## 🎨 Graphics and Video
+
+### 17. Graphics Forge
+
+For visual creativity, graphics, design, artwork, and exchanging ideas about making better digital creations.
+
+### 18. Video Lab
+
+For video creation, editing, production ideas, and sharing experiences related to visual storytelling.
+
+## 🌐 Community Entry and General Conversation
+
+### 19. PlebCircle Commons
+
+**The official entry group for PlebCircle.** Start here to introduce yourself, meet the community, ask general questions, and find your way to the groups that match your interests.
+
+<!-- PLEBVOX:END -->
 
 ---
 
-# 🌟 The Five Frontiers
+# 📜 PlebCircle Community Rules and Conduct
 
-## ⚡ Graphics Forge
+<!-- PLEBVOX:START -->
 
-The creative workshop for visual artists, graphic designers, illustrators, photographers, and motion graphics creators.
+PlebCircle is intended to be a welcoming community where people can participate without being harassed, misled, or overwhelmed by unwanted content. Members are expected to respect these guidelines.
 
-Members share projects, techniques, resources, workflows, and feedback that help transform ideas into compelling visual experiences.
+## 1. Introduce yourself
+
+New members should introduce themselves in **PlebCircle Commons**. This helps administrators distinguish genuine participants from bots and spam accounts and helps other members welcome you.
+
+Members who do not introduce themselves may be removed.
+
+## 2. Treat people with respect
+
+Be courteous, even when you disagree. Personal attacks, bullying, harassment, threats, and deliberate humiliation of other members are not acceptable.
+
+## 3. Keep conversations constructive
+
+Use each specialist group primarily for its intended subject. General conversation belongs in PlebCircle Commons. Friendly humour is welcome, but do not repeatedly derail other people's discussions.
+
+## 4. No spam or unwanted promotion
+
+Do not flood groups with repeated messages, unsolicited advertising, referral schemes, or unrelated promotional links. Ask the administrators before posting promotional material if you're unsure whether it is appropriate.
+
+## 5. Protect privacy
+
+Do not publish another member's private messages, personal details, photographs, or circumstances outside the community without permission.
+
+Share only the personal information you are comfortable making available to other members. Be careful with suspicious links, requests for money, and requests for sensitive information.
+
+## 6. Be honest and act in good faith
+
+Do not impersonate other people, use the community to scam members, distribute malicious links, or knowingly spread false information to deceive others.
+
+When sharing claims, advice, or material from elsewhere, use good judgement and be willing to correct mistakes.
+
+## 7. Respect different backgrounds and beliefs
+
+Members may have different experiences, interests, opinions, and beliefs. Discuss differences without hostility. Faith-related groups should allow sincere questions and respectful discussion without turning disagreements into personal attacks.
+
+## 8. Respect the administrators
+
+Administrators help keep the community organised and safe. Follow reasonable moderation requests and raise concerns respectfully rather than starting public arguments.
+
+Depending on the circumstances, administrators may remove spam, restrict disruptive behaviour, or remove members who repeatedly disregard the rules.
+
+## 9. Keep the community welcoming
+
+Welcome newcomers, offer help where you can, and remember that members have different levels of experience. Nobody should be made to feel foolish for asking a genuine question or learning something new.
+
+## 10. Use good judgement
+
+WhatsApp communities are shared spaces. Before posting, consider whether your message is appropriate, useful, respectful, and suitable for the group.
+
+If you are unsure whether something belongs in a group, ask an administrator.
+
+<!-- PLEBVOX:END -->
 
 ---
 
-## 🎵 Audio Core
+# 🤝 Why Join PlebCircle?
 
-A gathering place for music producers, sound engineers, musicians, podcasters, and audio enthusiasts.
-
-From beat-making and recording to mastering and sound design, Audio Core explores everything related to the world of sound.
-
----
-
-## 🎬 Video Lab
-
-The production center for video creators.
-
-Whether you're editing films, producing YouTube content, creating animations, live streaming, or experimenting with visual storytelling, Video Lab provides a place to refine your craft.
-
----
-
-## 🧠 Creator's Hub
-
-The innovation engine of PlebWave Frontier.
-
-This is where disciplines intersect.
-
-Topics include:
-
-* Artificial Intelligence
-* Writing and storytelling
-* App development
-* Linux projects
-* Automation
-* Training resources
-* Collaborative experiments
-
-Creator's Hub encourages exploration beyond traditional boundaries.
-
----
-
-## 🪐 Frontier Commons
-
-The social heartbeat of the community.
-
-Gaming discussions, operating systems, mobile technology, hobbies, gadgets, entertainment, and general conversation all find a home here.
-
-Not every great idea belongs inside a category.
-
-Frontier Commons exists for everything else.
-
----
-
-# 🤝 Why Join **PlebCircle**?
+<!-- PLEBVOX:START -->
 
 ### 🎯 Focused Spaces
 
-Dedicated groups for Graphics, Audio, Video, and Creative Innovation.
+Interest-based groups help members find conversations that suit their hobbies, faith, creativity, and learning goals.
 
 ### 🔄 Cross-Pollination
 
-Creators from different disciplines learn from one another and collaborate on projects.
+People from different backgrounds and disciplines can learn from one another and discover shared interests.
 
 ### 🧠 Shared Knowledge
 
@@ -190,52 +250,86 @@ Whether you're a beginner or an experienced creator, there's room to experiment,
 
 ### 🌍 Community
 
-Connect with like-minded people who believe that creativity, technology, and innovation should remain accessible to everyone.
+Connect with people who believe that creativity, technology, knowledge, and human connection should remain accessible to everyone.
+
+<!-- PLEBVOX:END -->
+
+---
+
+# ⚙️ The Foundations Behind PlebCircle
+
+<!-- PLEBVOX:START -->
+
+PlebCircle grew from the wider Plebware journey, shaped by practical experience in railway electrical systems, mechanical troubleshooting, fault diagnosis, hardware repair, Linux experimentation, lightweight computing, creative design, technical writing, and systems recovery.
+
+Those experiences reinforced several enduring beliefs:
+
+- Reliability matters more than hype.
+- Maintainability matters more than appearance.
+- Resilience matters more than trends.
+- Recoverability matters more than complexity.
+
+Around January 2010, Plebware established its first major online presence through **Plebware.com**. The site became a testing ground for ideas, projects, tutorials, Linux experimentation, graphics work, creative writing, and technical discussions.
+
+Although the original website eventually closed after the COVID era, its guiding philosophy continued through new platforms, projects, and communities.
+
+<!-- PLEBVOX:END -->
+
+---
+
+# 🖥️ The Rise of PlebMachine
+
+<!-- PLEBVOX:START -->
+
+As the project matured, attention shifted from simply running lightweight Linux systems toward creating adaptive environments capable of changing roles depending on the user's needs. This vision eventually became **PlebMachine**.
+
+PlebMachine is a modular Linux orchestration environment designed around:
+
+- State-driven operation
+- Desktop flexibility
+- User control
+- Recoverability
+- Long-term maintainability
+- Practical engineering
+
+Rather than forcing users into a single workflow, PlebMachine adapts to multiple creative and technical disciplines while remaining lightweight and understandable.
+
+<!-- PLEBVOX:END -->
 
 ---
 
 # ⚡ Current Project Status
 
-| Module                   | Status       |
-| ------------------------ | ------------ |
-| ⚙️ PlebMachine Core      | Operational  |
-| 📚 Documentation         | Active       |
-| ✍️ Writing Projects      | Active       |
-| 🧠 AI Integration        | Experimental |
-| 🌐 Community Development | Growing      |
+| Module | Status |
+| --- | --- |
+| ⚙️ PlebMachine Core | Operational |
+| 📚 Documentation | Active |
+| ✍️ Writing Projects | Active |
+| 🧠 AI Integration | Experimental |
+| 🌐 Community Development | Growing |
 
 ---
 
 # 🔮 Looking Forward
 
-**PlebCircle** continues the same mission that inspired Plebware years ago:
+<!-- PLEBVOX:START -->
 
-Building practical systems, sharing useful knowledge, fostering creativity, and empowering ordinary people through technology.
+PlebCircle continues the mission that inspired Plebware years ago: building practical systems, sharing useful knowledge, fostering creativity, and empowering ordinary people through technology and human connection.
 
-The tools may evolve.
-
-The platforms may change.
-
-The community may grow.
-
-But the philosophy remains unchanged:
+The tools may evolve. The platforms may change. The community may grow. But the philosophy remains unchanged:
 
 > Technology should serve people — not the other way around.
 
-Want to get in touch with Otto and Juelz? **PlebCircle** is the way to do so.
+Would you like to connect with **Otto and Juelz** and meet the people around Plebware and PlebCircle?
 
-These are the conditions:
+Start in PlebCircle Commons, introduce yourself, and explore the community at your own pace.
 
-When your application to join is approved, introduce yourself:
+<a href="https://chat.whatsapp.com/LDGb35oFqDVJ3WsEnvkMwx" target="_blank" rel="noopener noreferrer">**💬 Join PlebCircle Commons — Start Here**</a>
 
-**Examples:** 
+<a href="https://chat.whatsapp.com/FoplWyb2n0Q2zhd0Cm4c9Z" target="_blank" rel="noopener noreferrer">**🌐 Join the Wider PlebCircle Community**</a>
 
-Hi am am Dimitri. I am from Russia
-Anna from Soweto, South Africa
-Jack, NY, USA
+We look forward to meeting you.
 
-**Why?**
+**PlebCircle — different interests, shared humanity, one community.**
 
-For admin purposes and proper communication.
-To ensure human signup Not Bot signup.
-To Welcome New Folks and start meaningful dialogues 
+<!-- PLEBVOX:END -->
