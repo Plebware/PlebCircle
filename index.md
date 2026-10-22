@@ -1,23 +1,23 @@
 ---
 layout: default
-title: The Origin of PlebWave Frontier
+title: The Origin of PlebCircle
 ---
 
 {% include dashboard.html %}
 
 ----
 
-# 🧭 The Story of PlebWave Frontier
+# 🧭 **The Story of PlebCircle** formerly known as PlebWave Frontier
 
-## From Plebware to PlebWave Frontier
+## From Plebware to _PlebWave Frontier_ to **PlebCircle**
 
-PlebWave Frontier is the latest evolution of a journey that began many years before websites, social media communities, or modular Linux systems entered the picture.
+**PlebCircle** is the latest evolution of a journey that began many years before websites, social media communities, or modular Linux systems entered the picture.
 
 Its roots lie in a simple but powerful belief:
 
 > Technology should empower ordinary people rather than control them.
 
-Long before PlebWave Frontier existed, the foundations were laid through years of working with ageing computers, repairing hardware others considered obsolete, and finding practical solutions where budgets, resources, and circumstances were often limited.
+Long before **PlebCircle** existed, the foundations were laid through years of working with ageing computers, repairing hardware others considered obsolete, and finding practical solutions where budgets, resources, and circumstances were often limited.
 
 Rather than accepting the idea that older technology should be discarded, the focus became extending its usefulness through Linux, optimisation, practical engineering, and creative problem-solving.
 
@@ -96,15 +96,15 @@ Rather than forcing users into a single workflow, PlebMachine adapts to multiple
 
 ---
 
-# 🚀 Enter PlebWave Frontier HQ
+# 🚀 Enter **PlebCircle**
 
-PlebWave Frontier HQ represents the community side of the journey.
+**PlebCircle** represents the community side of the journey.
 
-While Plebware focused on ideas and PlebMachine focused on systems, PlebWave Frontier focuses on people.
+While Plebware focused on ideas and PlebMachine focused on systems, **PlebCircle** focuses on people.
 
 It serves as a digital gathering place for creators, innovators, gamers, artists, musicians, writers, developers, and technology enthusiasts who share a passion for building, learning, and creating.
 
-As part of **The Circle**, PlebWave Frontier HQ provides a structured WhatsApp-based community designed around collaboration rather than noise.
+**PlebCircle** provides a structured WhatsApp-based community designed around collaboration rather than noise.
 
 The goal is simple:
 
@@ -170,7 +170,7 @@ Frontier Commons exists for everything else.
 
 ---
 
-# 🤝 Why Join PlebWave Frontier?
+# 🤝 Why Join **PlebCircle**?
 
 ### 🎯 Focused Spaces
 
@@ -208,7 +208,7 @@ Connect with like-minded people who believe that creativity, technology, and inn
 
 # 🔮 Looking Forward
 
-PlebWave Frontier continues the same mission that inspired Plebware years ago:
+**PlebCircle** continues the same mission that inspired Plebware years ago:
 
 Building practical systems, sharing useful knowledge, fostering creativity, and empowering ordinary people through technology.
 
@@ -221,3 +221,21 @@ The community may grow.
 But the philosophy remains unchanged:
 
 > Technology should serve people — not the other way around.
+
+Want to get in touch with Otto and Juelz? **PlebCircle** is the way to do so.
+
+These are the conditions:
+
+When your application to join is approved, introduce yourself:
+
+**Examples:** 
+
+Hi am am Dimitri. I am from Russia
+Anna from Soweto, South Africa
+Jack, NY, USA
+
+**Why?**
+
+For admin purposes and proper communication.
+To ensure human signup Not Bot signup.
+To Welcome New Folks and start meaningful dialogues 
